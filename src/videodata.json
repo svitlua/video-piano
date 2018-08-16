@@ -1,0 +1,16 @@
+{
+   "video":[
+      {
+         "src":"https://d15t3vksqnhdeh.cloudfront.net/videos/1.mp4",
+         "desc":"Video 1"
+      },
+      {
+         "src":"https://d15t3vksqnhdeh.cloudfront.net/videos/2.mp4",
+         "desc":"Video 2"
+      },
+      {
+         "src":"https://d15t3vksqnhdeh.cloudfront.net/videos/3.mp4",
+         "desc":"Video 3"
+      }
+   ]
+}
