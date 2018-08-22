@@ -1,8 +1,13 @@
 {
   "name": "video-piano",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://svitlua.github.io/video-piano/",
   "private": true,
+=======
+  "private": true,
+  "homepage": "https://svitlua.github.io/video-piano/",
+>>>>>>> c9b87ea9d8d55a39cd613b248d1592e742e7a8f7
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
